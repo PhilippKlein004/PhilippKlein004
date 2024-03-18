@@ -1,1 +1,1 @@
-
+![Recent Projects](Projects.gif)
